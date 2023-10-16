@@ -13,7 +13,6 @@ int main()
 {
     int a;
     int b = 0;
-    int c = 0;
     int x = 20;
     int y;
     int z = 0;
@@ -36,7 +35,7 @@ int main()
        a = z/b;
        printf ("Not Ortalaması = %d\n" , a);
        c++;
-       printf("Notu Girilen Öğrenci Adedi = %d\n", c);
+       printf("Notu Girilen Öğrenci Adedi = %d\n", b);
        
        x--;
        
